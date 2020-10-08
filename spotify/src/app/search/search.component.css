@@ -1,0 +1,19 @@
+.title {
+  text-align: center;
+  font-family: "Jokerman";
+  font-size: 25px;
+}
+.need {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  text-align: center;
+}
+.purple-font {
+  color: purple;
+}
+
+.img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
